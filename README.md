@@ -16,7 +16,7 @@ import
 ```python
 from logi import logi
 ```
-enter the path of the log in the > path
+enter the path of the log in the > path <br>
 examples what dose the timestamp do are <a href='https://github.com/hiikion/logi#log-example'>here</a>
 ```python
 log = logi(path='C:/file path' timestamp=True)
