@@ -19,8 +19,7 @@ log.custom('custom log' cust='custom')
 
 ```
 15:54:11 | info | info log
-15:54:58 | Error | warning log
-15:55:08 | Warning | Error log
+15:54:58 | Warning | warning log
+15:55:08 | Error | Error log
 16:05:14 | custom | custom log
-
 ```
