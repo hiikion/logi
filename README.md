@@ -1,9 +1,14 @@
 # logi
-### instolation
+#### instolation
+the lib works on python 3x versions
 ```
 pip install logi
 ```
-### examples
+or
+```
+pip3 install logi
+```
+#### examples
 
 ```python
 from logi import logi
@@ -15,7 +20,7 @@ log.error('Error log')
 log.custom('custom log' cust='custom')
 ```
 
-### log format
+#### log format
 
 ```
 15:54:11 | info | info log
