@@ -1,7 +1,7 @@
 # logi
 - <a href='https://github.com/hiikion/logi#instolation'>instolation</a>
 - <a href='https://github.com/hiikion/logi#examples'>examples</a>
-- <a href='https://github.com/hiikion/logi#log-format'>log example</a>
+- <a href='https://github.com/hiikion/logi#log-example'>log example</a>
 ## instolation
 the lib works on python 3x versions
 ```
