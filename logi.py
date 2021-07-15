@@ -28,7 +28,7 @@ class logi:
                 log.write(self.m)
                 log.close()
 
-    def Error(self, m):
+    def error(self, m):
         self.m = m
         t = time.localtime()
         current_time = time.strftime("%H:%M:%S", t)
@@ -50,7 +50,7 @@ class logi:
                 log.write(self.m)
                 log.close()
 
-    def Warning(self, m):
+    def warning(self, m):
         self.m = m
         t = time.localtime()
         current_time = time.strftime("%H:%M:%S", t)
