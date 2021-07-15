@@ -63,3 +63,4 @@ log.custom('custom log' cust='hardware')
 | Error | Error log
 | hardware | custom log
 ```
+### <a href='https://github.com/hiikion/logi#logi'>return</a>
