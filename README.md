@@ -12,17 +12,15 @@ or
 pip3 install logi
 ```
 ## examples
-
+import
 ```python
 from logi import logi
-
-log = logi(path='C:/file path' timestamp=True)
-log.info('info log')
-log.warning('warning log')
-log.error('Error log')
-log.custom('custom log' cust='custom')
 ```
-
+enter the path of the log in the > path
+examples what dose the timestamp do are <a href='https://github.com/hiikion/logi#log-example'>here</a>
+```python
+log = logi(path='C:/file path' timestamp=True)
+```
 ## log example
 
 ```
