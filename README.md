@@ -1,4 +1,7 @@
 # logi
+- <a href='https://github.com/hiikion/logi#instolation'>instolation</a>
+- <a href='https://github.com/hiikion/logi#examples'>examples</a>
+- <a href='https://github.com/hiikion/logi#log-format'>log example</a>
 ## instolation
 the lib works on python 3x versions
 ```
@@ -20,7 +23,7 @@ log.error('Error log')
 log.custom('custom log' cust='custom')
 ```
 
-## log format
+## log example
 
 ```
 15:54:11 | info | info log
