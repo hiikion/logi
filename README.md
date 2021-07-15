@@ -1,7 +1,8 @@
 # logi
 ### instolation
-
-> pip install logi
+```
+pip install logi
+```
 ### examples
 
 ```python
