@@ -10,7 +10,7 @@ from logi import logi
 
 log = logi(path='C:/file path' timestamp=True)
 log.info('info log')
-log.Warning('warning log')
-log.Error('Error log')
+log.warning('warning log')
+log.error('Error log')
 log.custom('custom log' cust='custom')
 ```
