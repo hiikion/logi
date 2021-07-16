@@ -45,19 +45,10 @@ log.debug('debug log')
 ```
 clear all <br>
 clears the log file
-```
+```python
 log.clear_all()
 ```
-final code
-```python
-from logi import logi
 
-log = logi(path='C:/file path', timestamp=True, dbg=True)
-log.info('info log')
-log.warning('warning log')
-log.error('Error log')
-log.custom('custom log' cust='hardware')
-```
 ## log example
 ### with timestamp
 ```
@@ -65,6 +56,7 @@ log.custom('custom log' cust='hardware')
 15:54:58 | Warning | warning log
 15:55:08 | Error | Error log
 16:05:14 | hardware | custom log
+16.06.14 | Debug | debug log
 ```
 ### without timestamp
 ```
@@ -72,5 +64,6 @@ log.custom('custom log' cust='hardware')
 | Warning | warning log
 | Error | Error log
 | hardware | custom log
+| Debug | debug log
 ```
 ### <a href='https://github.com/hiikion/logi#logi'>return</a>
