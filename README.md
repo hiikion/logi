@@ -1,4 +1,5 @@
 # logi v1.2
+## <a href='https://github.com/hiikion/logi/blob/main/README-ru.md'>russian</a>
 - <a href='https://github.com/hiikion/logi#instolation'>instolation</a>
 - <a href='https://github.com/hiikion/logi#examples'>examples</a>
 - <a href='https://github.com/hiikion/logi#log-example'>log example</a>
