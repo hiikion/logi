@@ -1,4 +1,4 @@
-# logi
+# logi ## v1.2
 - <a href='https://github.com/hiikion/logi#instolation'>instolation</a>
 - <a href='https://github.com/hiikion/logi#examples'>examples</a>
 - <a href='https://github.com/hiikion/logi#log-example'>log example</a>
@@ -19,7 +19,7 @@ from logi import logi
 the path can only be in this (C:/logi/logi/test.log) format <br>
 examples what dose the timestamp do are <a href='https://github.com/hiikion/logi#without-timestamp'>here</a>
 ```python
-log = logi(path='C:/file path', timestamp=True)
+log = logi(path='C:/file path', timestamp=True, dbg=True)
 ```
 info log
 ```python
@@ -38,11 +38,21 @@ enter the log title in ```cust``` for example hardware
 ```python
 log.custom('custom log' cust='hardware')
 ```
+debug log <br>
+will log in to the file only if dbg is true
+```python
+log.debug('debug log')
+```
+clear all <br>
+clears the log file
+```
+log.clear_all()
+```
 final code
 ```python
 from logi import logi
 
-log = logi(path='C:/file path', timestamp=True)
+log = logi(path='C:/file path', timestamp=True, dbg=True)
 log.info('info log')
 log.warning('warning log')
 log.error('Error log')
