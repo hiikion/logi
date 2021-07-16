@@ -67,4 +67,4 @@ log.clear_all()
 | hardware | custom log
 | Debug | debug log
 ```
-### <a href='https://github.com/hiikion/logi/blob/main/README-ru.md#logi-v12'>на верх</a>
+### <a href='https://github.com/hiikion/logi/blob/main/README-ru.md#logi-v122'>на верх</a>
