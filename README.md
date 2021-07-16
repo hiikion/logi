@@ -69,4 +69,4 @@ log.clear_all()
 ```
 ### links 
 <a href="https://pypi.org/project/logi/">pipy</a>
-### <a href='https://github.com/hiikion/logi#logi-v12'>return</a>
+### <a href='https://github.com/hiikion/logi/blob/main/README.md#logi-v122'>return</a>
