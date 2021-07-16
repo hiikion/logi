@@ -67,6 +67,6 @@ log.clear_all()
 | hardware | custom log
 | Debug | debug log
 ```
-#### links 
+### links 
 <a href="https://pypi.org/project/logi/">pipy</a>
 ### <a href='https://github.com/hiikion/logi#logi'>return</a>
