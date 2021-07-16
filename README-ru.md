@@ -1,5 +1,5 @@
 # logi v1.2
-## <a>eng</a>
+## <a href='https://github.com/hiikion/logi/blob/main/README.md'>eng</a>
 - <a href='https://github.com/hiikion/logi#instolation'>установка</a>
 - <a href='https://github.com/hiikion/logi#examples'>примеры</a>
 - <a href='https://github.com/hiikion/logi#log-example'>примеры логов</a>
