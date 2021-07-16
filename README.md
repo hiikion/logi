@@ -16,10 +16,10 @@ import
 ```python
 from logi import logi
 ```
-enter the path of the log in the ``` path ``` <br>
+the path can only be in this (C:/logi/logi/test.log) format <br>
 examples what dose the timestamp do are <a href='https://github.com/hiikion/logi#without-timestamp'>here</a>
 ```python
-log = logi(path='C:/file path' timestamp=True)
+log = logi(path='C:/file path', timestamp=True)
 ```
 info log
 ```python
@@ -42,7 +42,7 @@ final code
 ```python
 from logi import logi
 
-log = logi(path='C:/file path' timestamp=True)
+log = logi(path='C:/file path', timestamp=True)
 log.info('info log')
 log.warning('warning log')
 log.error('Error log')
