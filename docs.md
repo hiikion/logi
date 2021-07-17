@@ -79,4 +79,4 @@ without
 | Debug | debug log
 ```
 in the console its the same but *console*
-### <a href='#'>back to top</a>
+### <a href='https://github.com/hiikion/logi/blob/main/docs.md#logi-docs'>back to top</a>
