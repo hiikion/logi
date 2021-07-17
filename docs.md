@@ -47,6 +47,7 @@ logs in to the file only if dbg is true
 log.debug('debug log')
 ```
 ## console logging
+(fak print all my hoimies use console log)
 its the same but the path can be what ever 
 ```python
 log = logi(path='none', timestamp=True, dbg=True)
