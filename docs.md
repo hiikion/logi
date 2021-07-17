@@ -3,7 +3,7 @@
 - <a href='https://github.com/hiikion/logi/blob/main/docs.md#file-logging'>file logging</a>
 - <a href='https://github.com/hiikion/logi/blob/main/docs.md#console-logging'>console logging</a>
 - <a href='https://github.com/hiikion/logi/blob/main/docs.md#log-clear'>log clear</a>
-- <a href='#'>log format</a>
+- <a href='https://github.com/hiikion/logi/blob/main/docs.md#log-format'>log format</a>
 
 ## home
 
@@ -18,7 +18,7 @@ otherwise it will not work
 ## file logging
 the path can be only in this ```C:/logi/logi/test.log``` format <br>
 NOT ```C:\logi\logi``` or ```C:\\logi\\logi```
-examples what does the time stamp do are <a href='#'>here</a>
+examples what does the time stamp do are <a href='https://github.com/hiikion/logi/blob/main/docs.md#log-format'>here</a>
 dbg turns <a href='#'>debug logs</a> on and off
 ```python
 log = logi(path='C:/file path', timestamp=True, dbg=True)
