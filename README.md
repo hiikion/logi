@@ -1,4 +1,4 @@
-# logi v1.2.2
+# logi v1.3.1
 
 - <a href='https://github.com/hiikion/logi#instolation'>instolation</a>
 - <a href='https://github.com/hiikion/logi#examples'>examples</a>
