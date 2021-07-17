@@ -136,7 +136,10 @@ class logi:
         self.m = m
         self.type = type
         t = time.localtime()
-        current_time = time.strftime("%H:%M:%S", t)
+        if self.timestamp == True:
+            current_time = time.strftime("%H:%M:%S", t)
+        else:
+            current_time = ''
         if self.type == 'info':
             print(current_time, '| info | ', self.m)
         elif self.type == 'warning':
