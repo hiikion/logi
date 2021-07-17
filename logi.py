@@ -131,3 +131,18 @@ class logi:
                     log.write('| Debug | ')
                     log.write(self.m)
                     log.close()
+
+    def console(self, m, type):
+        self.m = m
+        self.type = type
+        t = time.localtime()
+        current_time = time.strftime("%H:%M:%S", t)
+        if self.type == 'info':
+            print(current_time, '| info | ', self.m)
+        elif self.type == 'warning':
+            print(current_time, '| Warning | ', self.m)
+        elif self.type == 'error':
+            print(current_time, '| Error | ', self.m)
+        elif self.type == 'debug':
+            if self.dbg == True:
+                print(current_time, '| Debug | ', self.m)
