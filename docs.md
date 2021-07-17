@@ -2,7 +2,7 @@
 - <a href='https://github.com/hiikion/logi/blob/main/docs.md#home'>home</a>
 - <a href='https://github.com/hiikion/logi/blob/main/docs.md#file-logging'>file logging</a>
 - <a href='https://github.com/hiikion/logi/blob/main/docs.md#console-logging'>console logging</a>
-- <a href='#'>log clear</a>
+- <a href='https://github.com/hiikion/logi/blob/main/docs.md#log-clear'>log clear</a>
 - <a href='#'>log format</a>
 
 ## home
