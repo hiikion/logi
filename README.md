@@ -1,4 +1,4 @@
-# logi v1.3.1
+# logi v1.3.2
 
 ## instolation
 the lib works on python 3x versions
@@ -47,4 +47,4 @@ log.info('info log')
 ```
 ### links 
 <a href="https://pypi.org/project/logi/">pypi</a> | <a href='https://discord.gg/hFEfhGpXgf'>my discord server</a>
-### <a href='https://github.com/hiikion/logi/blob/main/README.md#logi-v131'>return</a>
+### <a href='https://github.com/hiikion/logi/blob/main/README.md#logi-v132'>return</a>
