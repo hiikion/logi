@@ -5,10 +5,7 @@ the lib works on python 3x versions
 ```
 pip install logi
 ```
-or
-```
-pip3 install logi
-```
+
 ## examples
 import
 ```python
