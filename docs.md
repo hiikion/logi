@@ -1,5 +1,5 @@
 # logi docs
-- <a href='#'>home</a>
+- <a href='https://github.com/hiikion/logi/blob/main/docs.md#home'>home</a>
 - <a href='#'>file logging</a>
 - <a href='#'>console logging</a>
 - <a href='#'>log clear</a>
