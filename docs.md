@@ -9,11 +9,8 @@
 
 the import 
 ```python
-from logi import logi
-# or
-from logi import *
+import logi
 ```
-otherwise it will not work
 
 ## file logging
 the path can be only in this ```C:/logi/logi/test.log``` format <br>
@@ -21,7 +18,7 @@ NOT ```C:\logi\logi``` or ```C:\\logi\\logi``` <br>
 examples what does the time stamp do are <a href='https://github.com/hiikion/logi/blob/main/docs.md#log-format'>here</a> <br>
 dbg turns <a href='https://github.com/hiikion/logi/blob/main/docs.md#debug-log'>debug logs</a> on and off
 ```python
-log = logi(path='C:/file path', timestamp=True, dbg=True)
+log = logger(path='C:/file path', timestamp=True, dbg=True)
 ```
 #### info log
 ```python
