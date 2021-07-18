@@ -13,7 +13,7 @@ from logi import logi
 ```
 
 ```python
-log = logi(path='C:/file path', timestamp=True, dbg=True)
+log = logger(path='C:/file path', timestamp=True, dbg=True)
 ```
 info log
 ```python
