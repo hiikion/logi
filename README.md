@@ -2,7 +2,7 @@
 
 ## instolation
 the lib works on python 3x versions
-```
+```python
 pip install logi
 ```
 
