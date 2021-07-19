@@ -9,7 +9,7 @@ pip install logi
 ## examples
 import
 ```python
-from logi import logi
+import logi
 ```
 
 ```python
