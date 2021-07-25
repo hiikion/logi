@@ -46,5 +46,5 @@ log.info('info log')
 | Debug | debug log
 ```
 ### links 
-<a href="https://pypi.org/project/logi/">pypi</a>
+<a href="https://pypi.org/project/logi/">pypi</a> | <a href='https://github.com/hiikion/logi/blob/main/DOCS.md'>docs</a>
 ### <a href='https://github.com/hiikion/logi/blob/main/README.md#logi-v133'>return</a>
