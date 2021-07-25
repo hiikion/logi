@@ -50,7 +50,7 @@ its the same but the path can be what ever
 log = logi(path='none', timestamp=True, dbg=True)
 ```
 change the log type in ```type``` <br>
-for example info, error, warning, debug etc (custom logs suported)
+for example info, error, warning, debug etc (custom logs NOT suported)
 ```python
 log.console('console info log', type='info')
 ```
