@@ -26,7 +26,7 @@ log = logi(path='C:/file path', timestamp=True, dbg=True)
 log.info('info log')
 # output: 15:54:11 | info | info log
 ```
-## <a href='https://github.com/hiikion/logi/blob/main/docs.md'>full docs here</a>
+## <a href='https://github.com/hiikion/logi/blob/main/DOCS.md'>full docs here</a>
 
 ## log example
 ### with timestamp
