@@ -22,7 +22,7 @@ log.info('info log')
 final code
 ```python
 from logi import logi
-log = logi(path='C:/file path', timestamp=True, dbg=True)
+log = logger(path='C:/file path', timestamp=True, dbg=True)
 log.info('info log')
 # output: 15:54:11 | info | info log
 ```
